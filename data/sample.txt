@@ -1,0 +1,15 @@
+Name: Sample Campaign
+Created by: Test User
+Date: 2025-07-18
+-----------------------
+##title##
+Sample Level 1
+##description##
+This is a sample level for testing.
+##enemies##
+Enemy1: 10
+Enemy2: 5
+##player##
+Health: 100
+Strength: 20
+##end##
