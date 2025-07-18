@@ -2,7 +2,7 @@ import os, datetime
 from flask import Flask, request, render_template
 import os
 # Our save data
-class Savedata (ndb.Model):
+class Savedata:
   player = db.StringProperty()
   nick = db.StringProperty()
   campaign = db.StringProperty()
