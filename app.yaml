@@ -1,0 +1,11 @@
+runtime: python39
+
+handlers:
+- url: /images
+  static_dir: images
+
+- url: /javascript
+  static_dir: javascript
+
+- url: /.*
+  script: auto

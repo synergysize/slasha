@@ -1,0 +1,19 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.17.0.2:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 984-072-307
+127.0.0.1 - - [18/Jul/2025 08:21:07] "[32mGET /startscreen HTTP/1.1[0m" 302 -
+127.0.0.1 - - [18/Jul/2025 08:21:07] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [18/Jul/2025 08:21:14] "[32mPOST / HTTP/1.1[0m" 302 -
+127.0.0.1 - - [18/Jul/2025 08:21:14] "GET /startscreen HTTP/1.1" 200 -
+127.0.0.1 - - [18/Jul/2025 08:21:14] "GET /javascript/startscreen.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Jul/2025 08:21:14] "GET /javascript/menu.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Jul/2025 08:21:14] "GET /javascript/package.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Jul/2025 08:21:14] "GET /images/grass.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [18/Jul/2025 08:21:14] "GET /images/rock.jpg HTTP/1.1" 200 -
