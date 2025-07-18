@@ -1,5 +1,4 @@
 import os, datetime
-from google.cloud import ndb
 from google.auth.transport import requests
 from flask import Flask, request, render_template
 import os
